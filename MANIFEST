@@ -13,4 +13,5 @@ t/http-tunnel.t
 t/mime-parse.t
 Makefile.PL
 META.yml
+META.json
 SIGNATURE    Added here by Module::Build

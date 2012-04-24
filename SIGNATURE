@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.63.
+signed via the Module::Signature module, version 0.68.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -15,14 +15,15 @@ not run its Makefile.PL or Build.PL.
 Hash: SHA1
 
 SHA1 d0c9aeb43da052ee47e8504bc5bfa90f38eb02af Build.PL
-SHA1 4285417e166d5331381d463eea5be10147e05155 Changes
-SHA1 0001e963311ff99f09e0bed164e1611c279136f9 LICENSE
-SHA1 b7ca15734adf7de233e6ede25279d04ed6592e8f MANIFEST
-SHA1 6934610e22f7fefb1962a32e9c9154b67d85410e MANIFEST.SKIP
-SHA1 3f86d3aaea592a88d213646c771f94490376db3e META.yml
-SHA1 10e2f6225171a0d705fc0c4c7839faf57aa0ef80 Makefile.PL
-SHA1 36971ed2da67017a58c593e2a1fd3acf06228adb README
-SHA1 358880fcfc522aff2cb726ba57ab9fc65cb6c259 lib/REST/Utils.pm
+SHA1 1e776ca2eeee34f01f724281183d09cc3249673c Changes
+SHA1 2c9e0194941edbee94454fcc32091e94bdbee781 LICENSE
+SHA1 2b6e2ca46a48d73cd6e4f4ac13e527e661c49158 MANIFEST
+SHA1 4429c8ccea605354796ae97b6c6c34b12cfc44de MANIFEST.SKIP
+SHA1 88989cfbf99663d3ffc58bb737993bb2e80df85a META.json
+SHA1 cfdf75e3c564a57b1fd06263b589deaf15294896 META.yml
+SHA1 af239c137f2d5114ce51f420a0d1f66b82ebb5fa Makefile.PL
+SHA1 55c4220d83aa32aebd60238f61c3c81dfcc0ba84 README
+SHA1 e466ccfe6ef4f0b11111fbfe4a243f069c67cfcc lib/REST/Utils.pm
 SHA1 8a0a63e135ba8bcbab4744aab395fe27faf537a7 t/00-signature.t
 SHA1 c3bba3cd2969e2de2cb57e98d738e246e6ae6549 t/01-load.t
 SHA1 adbcd68f122cdadcd4c59345cc8850eea7b58292 t/content-negotiation.t
@@ -30,9 +31,9 @@ SHA1 ed93dccb8eae36bc979d6ca8da4b42bc82fe53ad t/get-body.t
 SHA1 9db926c01bf853d54d25e2f165a3f4e492a1ebf4 t/http-tunnel.t
 SHA1 8ec401ccd5802a66b587e953755108f4d984017a t/mime-parse.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.10 (GNU/Linux)
+Version: GnuPG v1.4.11 (GNU/Linux)
 
-iEYEARECAAYFAkx9x00ACgkQIN9eM6kfjrq97wCfeheePfsNWtl8PB6f/9cUalch
-j5oAoInemsZb64VCTc+K7Uz9AZKWgbT4
-=qRg5
+iEYEARECAAYFAk+W7usACgkQIN9eM6kfjrp35QCeOGyK3ZnLti63MaiJZxBUTHWt
+oUYAoOpVuTkKWgTmSbrHs3TIXAOZVs/D
+=QcPb
 -----END PGP SIGNATURE-----
